@@ -51,7 +51,7 @@ adeg adeh adfg adfh bdeg bdeh bdfg bdfh cdeg cdeh cdfg cdfh
 
 done. 
 		*/
-		private static void notMain(string[] args)
+		private void Solve(string[] args)
 		{
 			string[] result = Expand(Console.ReadLine());
 			for(int i = 0; i< result.Length; i++)
