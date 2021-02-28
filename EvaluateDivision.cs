@@ -11,7 +11,7 @@ namespace PracticeConsole
     /// </summary>
     class EvaluateDivision
     {
-        static void notMain(string[] args)
+        static void Solve(string[] args)
         {
             // ************************Input*********************
             
