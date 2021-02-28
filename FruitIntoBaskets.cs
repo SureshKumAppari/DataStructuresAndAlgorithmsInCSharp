@@ -7,7 +7,7 @@ namespace PracticeConsole
 {
     class FruitIntoBaskets
     {
-        public static void notMain(string[] args)
+        public void Solve(string[] args)
         {
             TotalFruitInput();
 
