@@ -9,7 +9,7 @@ namespace PracticeConsole
         static int n, b;
         static int ans = 0;
 
-        public static void notMain(string[] args)
+        private void Solve(string[] args)
         {
             int t;
             t = Convert.ToInt32(Console.ReadLine());
