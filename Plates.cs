@@ -6,7 +6,7 @@ namespace PracticeConsole
 {
     class Plates
     {
-        private static void notMain(string[] args)
+        private void Solve(string[] args)
         {
             int T;
             T = Convert.ToInt32(Console.ReadLine());
