@@ -7,7 +7,7 @@ namespace PracticeConsole
 {
     class DecodeString
     {
-        public static void notMain(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine(DecodeStr(Console.ReadLine()));
             Console.ReadLine();
