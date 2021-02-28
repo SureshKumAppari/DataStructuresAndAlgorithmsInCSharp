@@ -6,7 +6,7 @@ namespace PracticeConsole.ArrayAndStrings
 {
     class TwoSumIIinputArray
     {
-        static void notMain(string[] args)
+        static void Solve(string[] args)
         {
             Console.WriteLine(TwoSum(new int[4] { 1, 2, 7, 11 }, 9).ToString());
         }
