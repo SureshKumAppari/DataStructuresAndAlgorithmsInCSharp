@@ -6,7 +6,7 @@ namespace PracticeConsole
 {
     class LicenseKeyFormatting
     {
-        public static void notMain(string[] args)
+        public void Solve(string[] args)
         {
             string result = LicenseKeyFormat("5F3Z-2e-9-w", 4);
             Console.WriteLine(result);
