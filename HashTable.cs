@@ -72,7 +72,7 @@ namespace PracticeConsole.ArrayAndStrings
             }
         }
 
-        public static void notMain(String[] args)
+        public static Solve(String[] args)
         {
             char[] str = "◣⚽◢⚡◣⚾⚡◢".ToCharArray();
             printFreq(str);
