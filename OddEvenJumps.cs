@@ -7,7 +7,7 @@ namespace PracticeConsole
 {
     class OddEvenJumps
     {
-        public static void notMain(string[] args)
+        public static Solve(string[] args)
         {
             int[] intarray = new int[] {2, 3, 1, 1, 4}; //{ 10, 13, 12, 14, 15 };
             OddEvenLocation(intarray);
