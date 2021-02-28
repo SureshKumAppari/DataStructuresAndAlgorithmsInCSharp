@@ -6,7 +6,7 @@ namespace PracticeConsole.InterviewProcess
 {
     class InvertTree
     {
-        public static void notMain(string[] args)
+        public void Solve(string[] args)
         {
             TreeNode root = new TreeNode(1, null, null);
             root.left = new TreeNode(2, new TreeNode(4, null, null), new TreeNode(5, null, null));
